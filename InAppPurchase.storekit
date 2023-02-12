@@ -1,0 +1,33 @@
+{
+  "identifier" : "A1DC35D5",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "27506D35",
+      "localizations" : [
+        {
+          "description" : "Unlocks every feature of Vibratee",
+          "displayName" : "Unlock Everything",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.creator.Vibratee.unlockEverything",
+      "referenceName" : "Unlock Everything",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
